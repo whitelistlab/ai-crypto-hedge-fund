@@ -2,6 +2,9 @@
 
 This is a proof of concept for an AI-powered hedge fund.  The goal of this project is to explore the use of AI to make trading decisions.  This project is for **educational** purposes only and is not intended for real trading or investment.
 
+Special Disclaimer:
+**This project does not endorse any crypto currency (like AI Agent Meme) and will not be used as a base for any crypto currency.**
+
 This system employs several agents working together:
 
 1. Valuation Agent - Calculates the intrinsic value of a stock and generates trading signals
@@ -28,21 +31,24 @@ This project is for **educational and research purposes only**.
 By using this software, you agree to use it solely for learning purposes.
 
 ## Table of Contents
-- [Setup](#setup)
-- [Usage](#usage)
-  - [Running the Hedge Fund](#running-the-hedge-fund)
-  - [Running the Backtester](#running-the-backtester)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [Feature Requests](#feature-requests)
-- [License](#license)
+- [AI Hedge Fund](#ai-hedge-fund)
+  - [Disclaimer](#disclaimer)
+  - [Table of Contents](#table-of-contents)
+  - [Setup](#setup)
+  - [Usage](#usage)
+    - [Running the Hedge Fund](#running-the-hedge-fund)
+    - [Running the Backtester](#running-the-backtester)
+  - [Project Structure](#project-structure)
+  - [Contributing](#contributing)
+  - [Feature Requests](#feature-requests)
+  - [License](#license)
 
 ## Setup
 
 Clone the repository:
 ```bash
-git clone https://github.com/virattt/ai-hedge-fund.git
-cd ai-hedge-fund
+git clone https://github.com/whitelistlab/ai-crypto-hedge-fund.git
+cd ai-crypto-hedge-fund
 ```
 
 1. Install Poetry (if not already installed):
